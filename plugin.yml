@@ -1,0 +1,5 @@
+name: TestMusic
+api: 3.0.0
+author: Josewowgame
+version: 1.0
+main: test\Loader
